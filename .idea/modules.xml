@@ -4,10 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-impl/api-impl.iml" filepath="$PROJECT_DIR$/api-impl/api-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-dal/common-dal.iml" filepath="$PROJECT_DIR$/common-dal/common-dal.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-model/common-model.iml" filepath="$PROJECT_DIR$/common-model/common-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-service/common-service.iml" filepath="$PROJECT_DIR$/common-service/common-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-dal/commondal.iml" filepath="$PROJECT_DIR$/common-dal/commondal.iml" />
       <module fileurl="file://$PROJECT_DIR$/deploy/deploy.iml" filepath="$PROJECT_DIR$/deploy/deploy.iml" />
       <module fileurl="file://$PROJECT_DIR$/doc/doc.iml" filepath="$PROJECT_DIR$/doc/doc.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerce_wu.iml" filepath="$PROJECT_DIR$/ecommerce_wu.iml" />
