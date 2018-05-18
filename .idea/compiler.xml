@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="api-impl" />
+        <module name="apiimpl" />
+        <module name="common-model" />
+        <module name="common-service" />
+        <module name="common-utils" />
+        <module name="commondal" />
+        <module name="commonservice" />
+        <module name="deploy" />
+        <module name="doc" />
+        <module name="integration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.5" />
+      <module name="api-impl" target="1.5" />
+      <module name="apiimpl" target="1.5" />
+      <module name="common-model" target="1.5" />
+      <module name="common-service" target="1.5" />
+      <module name="common-utils" target="1.5" />
+      <module name="commondal" target="1.5" />
+      <module name="commonservice" target="1.5" />
+      <module name="deploy" target="1.5" />
+      <module name="doc" target="1.5" />
+      <module name="ecommerce_wu" target="1.5" />
+      <module name="integration" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
