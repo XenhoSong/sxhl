@@ -9,6 +9,7 @@
         <module name="api" />
         <module name="api-impl" />
         <module name="apiimpl" />
+        <module name="common-dal" />
         <module name="common-model" />
         <module name="common-service" />
         <module name="common-utils" />
@@ -23,6 +24,7 @@
       <module name="api" target="1.5" />
       <module name="api-impl" target="1.5" />
       <module name="apiimpl" target="1.5" />
+      <module name="common-dal" target="1.5" />
       <module name="common-model" target="1.5" />
       <module name="common-service" target="1.5" />
       <module name="common-utils" target="1.5" />
